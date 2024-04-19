@@ -28,5 +28,4 @@ function moveSlide(n) {
 
 window.onload = () => {
     showSlides();
-    setInterval(() => moveSlide(1), 3000); // Change image every 3 seconds
 };
