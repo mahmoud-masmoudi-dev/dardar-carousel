@@ -1,8 +1,8 @@
 let slideIndex = 0;
 const images = [
-    "https://example.com/image1.jpg",
-    "https://example.com/image2.jpg",
-    "https://example.com/image3.jpg"
+    "https://daradar-data.s3.eu-west-1.amazonaws.com/pictures/Moalla+immobili%C3%A8re/id%3D1267fe1195e3dcf48a06a3205e8b9e9593130d16/pic1.jpeg",
+    "https://daradar-data.s3.eu-west-1.amazonaws.com/pictures/Moalla+immobili%C3%A8re/id%3D1267fe1195e3dcf48a06a3205e8b9e9593130d16/pic2.jpeg",
+    "https://daradar-data.s3.eu-west-1.amazonaws.com/pictures/Moalla+immobili%C3%A8re/id%3D1267fe1195e3dcf48a06a3205e8b9e9593130d16/pic3.jpeg",
 ];
 
 function showSlides() {
